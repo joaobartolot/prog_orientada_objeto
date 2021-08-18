@@ -1,1 +1,1 @@
-# prog_orientada_objeto
+# Repo de exercícios de programação orientada a objeto.
